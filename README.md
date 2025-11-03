@@ -1,3 +1,2 @@
 # Dart-Lesson-2
-123456
-this is my password
+I can write a code in Visual studio and this repository is my second class wich i learned by Gabi
